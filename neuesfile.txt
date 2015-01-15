@@ -1,5 +1,5 @@
-Erste Linie
+Erste Linie  fsdfsdf
 Neue Zweite Linie
-Neue dritte Linie für Branch1
-nächste Veränderung
+Neue dritte Linie fÃ¼r Branch1
+nÃ¤chste VerÃ¤nderung
 Zweite Linie
